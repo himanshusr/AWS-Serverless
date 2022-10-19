@@ -1,7 +1,7 @@
 # AWS-Serverless
 
 ## Prerequisites
- - Create 3 lambda fucntion in AWS
+ - Create 3 lambda function in AWS
  - Create 1 Standard SQS queue
  - Create 1 DynamoDb Table
  - Create 1 API gateway
